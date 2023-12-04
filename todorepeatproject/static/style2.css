@@ -1,0 +1,14 @@
+.banner{
+background-color:#d9d9d9;
+width:100%;
+height:120px
+}
+.banner-text{
+top:40px;
+left:45%;
+position:absolute;
+transform:transform;
+}
+.form-group{
+padding:10px
+}
